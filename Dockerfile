@@ -1,4 +1,4 @@
-FROM openjdk:args8
+FROM openjdk:8
 
 MAINTAINER lucasko
 
