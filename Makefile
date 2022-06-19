@@ -2,5 +2,5 @@ build:
 	echo "123"
 	./gradlew build
 
-build_img:
+build_image:
 	docker build -t lucasko/my-gradle:1.0 .
